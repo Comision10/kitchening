@@ -1,4 +1,4 @@
-header{
+header {
     width: 100%;
 }
 
@@ -21,14 +21,14 @@ header a.btn-burger{
     border-radius: 5px;
 }
 
-header li{
+header li {
     background-color: #63645d;
     margin-bottom: 2px;
     padding: 10px 0;
     text-align: center;
 }
 
-header li a{
+header li a {
     color: #FFFFFF;
     text-transform: uppercase;
 }
